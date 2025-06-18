@@ -1,2 +1,2 @@
 # pve-setup-script
-Automating setup script for new Proxmox containers.
+Extremely basic setup script, I'm lazy.
